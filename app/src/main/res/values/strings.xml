@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ayana</string>
+    <string name="welcome">Welcome Back</string>
+    <string name="usrnm">Username</string>
+    <string name="mail">Email</string>
+    <string name="pw">Password</string>
+    <string name="log">Login</string>
+    <string name="forget">Forgot</string>
+    <string name="remember">Remember Me</string>
+    <string name="akhir">Don't Have an Account? Sign Up</string>
+</resources>
